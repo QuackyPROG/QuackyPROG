@@ -10,7 +10,6 @@ I'm Quacky, a Computer Science student aspiring to become a software engineer. F
 # 📊 GitHub Stats:
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=QuackyPROG&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=QuackyPROG&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=QuackyPROG&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
