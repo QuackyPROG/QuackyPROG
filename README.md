@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 About Me:
-A Computer Science student aspiring to become a software engineer. Focused on writing clean, efficient code and building practical, scalable solutions.
+A Computer Science student pretending to become a software engineer. Focused on writing clean, efficient code and building practical, scalable solutions.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:GitQuackDev+github@gmail.com) 
