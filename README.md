@@ -12,4 +12,3 @@ A Computer Science student that wants to become a software engineer. Focused on 
 
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
